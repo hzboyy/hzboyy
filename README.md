@@ -1,4 +1,5 @@
 ![logo](https://github.com/hzboyy/hzboyy/blob/main/hzBoy%20Development.png)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <h1 align="center">Hi 👋, I'm jeje known as matthew</h1>
 <h3 align="center">A passionate Full Stack Developer and Software Engineer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
